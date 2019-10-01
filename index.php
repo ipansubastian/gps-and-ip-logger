@@ -6,7 +6,7 @@
 /|              tes                                 |/
 /|  Coder     : Zaid Harisah                        |/
 /|  Facebook  : fb.com/kurotaka.id                  |/
-/|  Site      : http://svopt.github.io              |/
+/|  Site      : http://zaid-dev.github.io           |/
 /|   ______   _                                     |/
 /|  |__  / | | | *** /                              |/
 /|    / /| |_| | ** /                               |/
