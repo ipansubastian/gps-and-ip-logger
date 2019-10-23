@@ -5,13 +5,13 @@
 /|  Deskripsi : A tool for detect visitor coordina- |/
 /|              tes                                 |/
 /|  Coder     : Zaid Harisah                        |/
-/|  Facebook  : fb.com/kurotaka.id                  |/
-/|  Site      : http://zaid-dev.github.io           |/
+/|  Facebook  : fb.com/zaidhdev                     |/
+/|  Site      : http://zaidhdev.github.io           |/
 /|   ______   _                                     |/
 /|  |__  / | | | *** /                              |/
 /|    / /| |_| | ** /                               |/
 /|   / /_|  _  | * /                                |/
-/|  /____|_| |_|  / github.com/zaid-dev             |/
+/|  /____|_| |_|  / github.com/zaidhdev             |/
 /|                                                  */
 /*==================================================*/
 
