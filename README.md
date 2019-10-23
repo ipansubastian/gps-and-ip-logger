@@ -1,2 +1,3 @@
-# -GPS-Coord-Finder-
-A tool for detect visitor GPS coordinate.
+# GPS-Coord-Finder
+Sebuah tools untuk tracking koordinat GPS dan IP visitor web.
+JS && PHP
